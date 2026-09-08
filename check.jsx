@@ -12,6 +12,7 @@ function Login() {
       <button>Login</button>
       <button>Register</button>
       <button>Forgot Password</button>
+      <button>Login with Google</button>
     </div>
   );
 }
