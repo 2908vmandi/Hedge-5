@@ -1,7 +1,7 @@
 function Login() {
   return (
     <div>
-      <h2>Login</h2>
+      <h2>Welcome Back</h2>
 
       <input type="email" placeholder="Email" />
       <br /><br />
@@ -10,6 +10,10 @@ function Login() {
       <br /><br />
 
       <button>Login</button>
+
+      <p>
+        <a href="#">Forgot Password?</a>
+      </p>
     </div>
   );
 }
